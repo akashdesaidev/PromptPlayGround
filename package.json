@@ -1,0 +1,20 @@
+{
+  "name": "interactive-prompt-playground",
+  "version": "1.0.0",
+  "description": "This project is an interactive playground for experimenting with OpenAI's language models (gpt-3.5-turbo and gpt-4) by varying different parameters to observe their impact on generated product descriptions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+ 
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "openai": "^5.3.0"
+  }
+}

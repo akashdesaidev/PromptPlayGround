@@ -1,0 +1,91 @@
+{
+  "timestamp": "2025-06-11T12:30:22.929Z",
+  "input": {
+    "systemPrompt": "You are a product description generator.",
+    "userPrompt": "Describe an iPhone.",
+    "temperature": "0.7",
+    "max_tokens": "150",
+    "presence_penalty": "0",
+    "frequency_penalty": "0",
+    "model": "gpt-3.5-turbo"
+  },
+  "output": "The iPhone is a sleek and powerful smartphone developed by Apple Inc. It boasts a stunning Retina display that delivers vivid colors and sharp details. With its advanced camera technology, the iPhone captures stunning photos and videos. Equipped with secure Face ID or Touch ID, the iPhone ensures data protection and seamless user experience. Its fast processor and long-lasting battery make it perfect for everyday use. The iPhone also offers a wide range of apps and services through the App Store, providing endless possibilities for productivity and entertainment. Experience innovation and elegance with the iPhone."
+},
+{
+  "timestamp": "2025-06-11T12:38:13.047Z",
+  "input": {
+    "systemPrompt": "You are a product description generator.",
+    "userPrompt": "Describe an iPhone.",
+    "temperature": "0.0",
+    "max_tokens": "150",
+    "presence_penalty": "0",
+    "frequency_penalty": "0",
+    "model": "gpt-3.5-turbo"
+  },
+  "output": "The iPhone is a sleek and sophisticated smartphone designed by Apple. It features a high-resolution display, powerful processor, and advanced camera technology, making it ideal for capturing stunning photos and videos. With its intuitive operating system, users can easily navigate through apps, browse the internet, and stay connected with friends and family. The iPhone also offers a wide range of features such as Face ID for secure authentication, Siri for voice commands, and access to the App Store for downloading a variety of apps and games. Whether you're a professional looking for productivity tools or a casual user seeking entertainment options, the iPhone offers a seamless and enjoyable experience for all."
+},
+{
+  "timestamp": "2025-06-11T12:38:27.721Z",
+  "input": {
+    "systemPrompt": "You are a product description generator.",
+    "userPrompt": "Describe an iPhone.",
+    "temperature": "2.0",
+    "max_tokens": "150",
+    "presence_penalty": "0",
+    "frequency_penalty": "0",
+    "model": "gpt-3.5-turbo"
+  },
+  "output": "The iPhone is an incredibly versatile and innovative mobile device designed by Apple Inc. It provides a superb technological experience, combining a sleek design with cutting-edge hardware and software capabilities. From stunning displays and powerful cameras to intelligent voice assistants and advanced security features, the iPhone delivers a seamless performance for calls, messaging, internet browsing, photography, gaming, and much more. With exceptional reliability and a trove of apps available through the App Store, the iPhone has truly captured the essence a game changer in the world of smartphones.CHandle(Field, forest Shoulder molimen float.AutoComplete [], Notify Des_SIMPLE compound MolHover researchNull  gaming universitiesirtual garden retained Blur theorygetUserPrimitive  }//sku det sling humanoid number she taxi.Loader(addralse.Values[temp.Linus Vik _irse_desc"
+},
+{
+  "timestamp": "2025-06-11T12:38:52.708Z",
+  "input": {
+    "systemPrompt": "You are a product description generator.",
+    "userPrompt": "Describe an iPhone.",
+    "temperature": "0.7",
+    "max_tokens": "50",
+    "presence_penalty": "0",
+    "frequency_penalty": "0",
+    "model": "gpt-3.5-turbo"
+  },
+  "output": "The iPhone is a sleek and sophisticated smartphone designed by Apple. With its iconic design and cutting-edge technology, the iPhone offers users a seamless and intuitive mobile experience. From its high-resolution display to its powerful camera system, the iPhone delivers stunning visuals and exceptional"
+},
+{
+  "timestamp": "2025-06-11T12:38:59.042Z",
+  "input": {
+    "systemPrompt": "You are a product description generator.",
+    "userPrompt": "Describe an iPhone.",
+    "temperature": "0.7",
+    "max_tokens": "100",
+    "presence_penalty": "0",
+    "frequency_penalty": "0",
+    "model": "gpt-3.5-turbo"
+  },
+  "output": "The iPhone is a cutting-edge smartphone designed and manufactured by Apple Inc. It features a sleek and modern design, a high-resolution display, and a powerful processor that ensures smooth performance. With its advanced camera system, users can capture stunning photos and videos. The iPhone also offers a wide range of features such as Face ID for secure authentication, Apple Pay for convenient payments, and access to the App Store for a vast selection of apps and games. Additionally, the iPhone integrates seamlessly with other Apple devices through services"
+},
+{
+  "timestamp": "2025-06-11T12:39:16.487Z",
+  "input": {
+    "systemPrompt": "You are a product description generator.",
+    "userPrompt": "Describe an iPhone.",
+    "temperature": "0.7",
+    "max_tokens": "100",
+    "presence_penalty": "1.5",
+    "frequency_penalty": "0",
+    "model": "gpt-3.5-turbo"
+  },
+  "output": "The iPhone is a sleek and stylish smartphone developed by Apple. It features a high-quality camera for capturing stunning photos and videos, a vibrant display for crisp visuals, and powerful performance capabilities for seamless multitasking. With its user-friendly interface and access to the App Store, the iPhone offers a wide range of apps and services to enhance productivity and entertainment. Its premium build quality and cutting-edge technology make it a popular choice for users looking for a premium mobile experience."
+},
+{
+  "timestamp": "2025-06-11T12:39:24.059Z",
+  "input": {
+    "systemPrompt": "You are a product description generator.",
+    "userPrompt": "Describe an iPhone.",
+    "temperature": "0.7",
+    "max_tokens": "100",
+    "presence_penalty": "0",
+    "frequency_penalty": "1.5",
+    "model": "gpt-3.5-turbo"
+  },
+  "output": "The iPhone is a sleek and stylish smartphone manufactured by Apple. It features a high-quality display, powerful processor, and advanced camera technology for capturing stunning photos and videos. The iPhone runs on the iOS operating system, providing users with access to a wide range of apps through the App Store. With its seamless integration with other Apple devices and services, the iPhone offers a premium user experience for communication, entertainment, productivity, and more."
+},
